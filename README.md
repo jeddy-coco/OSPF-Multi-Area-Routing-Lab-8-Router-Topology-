@@ -1,9 +1,7 @@
 
-# 🧠 OSPF Multi-Area Routing Lab (8-Router Topology)
+# OSPF Multi-Area Routing Lab (8-Router Topology)
 
 A Cisco Packet Tracer project featuring 8 routers configured with OSPF in multiple areas. Built for practicing advanced routing concepts, troubleshooting skills, and developing patience you didn’t know you needed.
-
-![Topology Screenshot](./IP-Routing-and-Configuration-(Multi-Area-for-8-Routers).png)
 
 ---
 
@@ -47,7 +45,7 @@ A Cisco Packet Tracer project featuring 8 routers configured with OSPF in multip
   - Incorrect/missing `network` statements
   - Passive interfaces enabled on transit links
   - Router IDs clashing or missing
-- 🧠 **Lesson Learned**:  
+- **Lesson Learned**:  
   Asking ChatGPT helped... until it didn't. 😂
 
 ---
