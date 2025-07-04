@@ -3,7 +3,7 @@
 
 A Cisco Packet Tracer project featuring 8 routers configured with OSPF in multiple areas. Built for practicing advanced routing concepts, troubleshooting skills, and developing patience you didn’t know you needed.
 
-![Topology Screenshot](./b7de4266-58da-41c7-a290-642046fe772b.png)
+![Topology Screenshot](./IP-Routing-and-Configuration-(Multi-Area-for-8-Routers).png)
 
 ---
 
